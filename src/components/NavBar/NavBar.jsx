@@ -6,7 +6,7 @@ const NavBar = () => {
   return (
     <NavbarContainerStyle>
         <div>
-
+            <img src="/LogoHome.png"  />
         </div>
         <LinksContainerStyled>
             <motion.div whileTap={{scale: 0.9 }}>

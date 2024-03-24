@@ -5,9 +5,6 @@ import { FaLemon } from "react-icons/fa";
 import { GiAbstract042 } from "react-icons/gi";
 
 
-
-
-
 const Enterprise = () => {
   return (
     <EnterpriseContainerStyled>
@@ -16,7 +13,7 @@ const Enterprise = () => {
         </EnterpriseImageContainerStyled>
         <EnterpriseTextContainerStyled>
             <p> Empower your business </p>
-            <h1> <span>Enterprise</span> Blockchain </h1>
+            <h1><span>Enterprise</span> Blockchain </h1>
             <ul> 
                 <li> Learn to optimize </li>
                 <li> We guide you at every step </li>

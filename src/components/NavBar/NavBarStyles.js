@@ -7,6 +7,10 @@ export const NavbarContainerStyle = styled.header `
     justify-content: space-between;
     align-items: center;
     padding: 1rem 4rem;
+    img {
+        width: 50%;
+        height: auto;
+    }
 `;
 
 export const LinksContainerStyled = styled.div `
